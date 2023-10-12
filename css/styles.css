@@ -1,0 +1,39 @@
+img {
+  width: 200px;
+}
+
+.column1 {
+  border-style: double;
+  width: 33%;
+  float: left;
+  text-align: center;
+  background-color: grey;
+}
+
+.column2 {
+    border-style: double;
+    width: 33%;
+    float: left;
+    text-align: center;
+    background-color: gray;
+}
+
+.column3 {
+    border-style: double;
+    width: 33%;
+    float: left;
+    text-align: center;
+    background-color: grey;
+}
+
+.column2 p {
+    font-style: italic; 
+}
+
+.column p {
+    font-family: Georgia;
+}
+
+.header h1 {
+    color:rgb(22, 35, 222)
+}
